@@ -1,0 +1,210 @@
+
+.main{
+	background-color: #010a59;
+	width: 780px;
+	align-items: center;
+	margin: auto;
+}
+
+.topB{
+	height: 126px;
+}
+
+.line{
+	background-image: url(images/topbar.gif);
+	background-repeat: repeat-x;
+	height: 25px;
+
+}
+
+.line1{
+	background-image: url(images/btmbar.gif);
+	background-repeat: repeat-x;
+	height: 25px;
+
+}
+
+.m{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-right: 5px;
+	margin-left: 5px;
+	height: 720px;
+	
+}
+
+.mLeft{
+	width: 125px;
+	float: left;
+}
+
+.menus{
+	background-image: url(images/menubg.jpg);
+	background-repeat: repeat-x;
+	height: 185px;
+}
+
+.smi{
+	width: 120px;
+	margin-top: 7px;
+	margin-left: 2px;
+	margin-right: 2px;
+	margin-bottom: 10px;
+}
+
+.smt{
+	color: white;
+	font-size: 12px;
+	text-align: center;
+	margin-top: -30px;
+	height: 30px;
+
+	
+}
+
+.st{
+	width: 120px;
+	margin-top: 4px;
+	margin-left: 2px;
+	margin-right: 2px;
+
+}
+
+a{	
+	text-decoration-color: white;
+	text-decoration: none;
+}
+
+.si{
+	color: white;
+	font-size: 10px;
+	text-align: center;
+	margin-top: -15px;
+	
+}
+
+.li{
+	width: 120px;
+	margin-top: 7px;
+	margin-left: 2px;
+	margin-right: 2px;
+
+}
+
+.lt{
+	color: white;
+	font-size: 10px;
+	text-align: center;
+	margin-top: -15px;
+}
+
+
+.menul{
+	background-image: url(images/menubg2.jpg);
+	background-repeat: repeat-x;
+	height: 274px;
+}
+
+.bonus{
+	background-image: url(images/genericaddr.jpg);
+	background-repeat: no-repeat;
+	height: 135px;
+}
+
+.play{
+	margin-top: 103px;
+	margin-left: 18px;
+	
+}
+
+
+
+
+.mRight{
+	width: 125px;
+	float: right;
+}
+
+.down{
+	background-image: url(images/downloadbg.jpg);
+	background-repeat: repeat-x;
+	height: 185px;
+	
+}
+/*.dm{
+	height: 175px;
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}*/
+.dt{
+	height: 50px;
+	color: white;
+	margin-left: 10px;
+}
+
+.dd{
+	color:white;
+	height: 100px;
+	margin-left: 10px;
+}
+
+.di{
+	width: 115px;
+	margin-left: 5px;
+}
+
+.mMid{
+	width: 520px;
+	float: left;
+}
+
+.content{
+	width: 505px;
+	height: 125px;
+	padding: 3px;
+	margin-left: 5px;
+	margin-bottom: 16px;
+	background-color: red;
+}
+.im{
+	width: 125px;
+	float: left;
+}
+.des{
+	width: 380px;
+	float: right;
+}
+
+.des h3{
+	color: yellow;
+	text-align: center;
+}
+
+.des p{
+	color: white;
+	padding-left: 15px;
+	padding-right: 5px;
+}
+
+.foot{
+	height: 60px;
+}
+
+.lnk{
+	color: white;
+	margin-left: 120px;
+}
+
+.lnk a{
+	padding-right: 8px;
+	padding-left: 8px;
+	color: white;
+}
+
+.text{
+	color: white;
+	margin-left: 180px;
+}
+
